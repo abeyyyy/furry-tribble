@@ -44,6 +44,7 @@ import {AiFillWarning} from "react-icons/ai"
 import brokenrobot from "../assets/brokenrobot.png"
 import {useNavigate} from "react-router-dom"
 import{ GiCancel} from "react-icons/gi"
+import stableFund from "../assets/stableFund.png"
 
 
 
@@ -64,7 +65,7 @@ function Home(props) {
       coinbase,
       tron,
       safepal,
-      kai,
+      stableFund
       
       
       
@@ -93,6 +94,7 @@ function Home(props) {
      
     ]);
     const [imgArrayThree, setImgArrayThree] = useState([
+      kai,
       exodus,
       yoroi,
       wavescard,
