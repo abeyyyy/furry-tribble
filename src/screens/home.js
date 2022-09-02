@@ -168,7 +168,7 @@ function Home() {
        <div>   <button className='dashboard-bottom my-3 p-2 w-72' >Contract</button></div>
        <div><button className='dashboard-bottom my-3 p-2 w-72' >FAQ</button></div>
         <div>  <button className='dashboard-bottom my-3 p-2 w-72' >Lite Paper</button></div>
-        <div> <button className='dashboard-bottom my-3 p-2 w-72' >Telegram</button></div>
+        <div><button className='dashboard-bottom my-3 p-2 w-72'  > <a className="w-full" href="https://t.me/stablefundofficiall1"> Telegram </a></button></div>
         
           <h4 className="text-white text-lg mx-3 my-6 font-medium">Copyright © 2022 StableFund.App - All Rights Reserved</h4>
         </div>
